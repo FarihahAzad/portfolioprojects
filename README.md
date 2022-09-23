@@ -1,2 +1,2 @@
 # Data Analyst Portfolio Projects Repository
-This repository will include all the code used to
+As an aspiring data analyst I have put together all the code and queries used for the portfolio projects. 
