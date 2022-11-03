@@ -1,2 +1,2 @@
 # Data Analyst Portfolio Projects Repository
-This repository includes the queries I used to explore various data sets. 
+This repository includes all the queries and code I used to explore various data sets. 
